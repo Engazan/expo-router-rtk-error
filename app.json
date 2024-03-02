@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "test",
+    "userInterfaceStyle": "automatic",
+    "orientation": "default",
+    "web": {
+      "output": "static",
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://n"
+        }
+      ],
+      "expo-font",
+      "expo-localization"
+    ],
+    "name": "test.app_MOBILE",
+    "slug": "test.app_MOBILE",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
